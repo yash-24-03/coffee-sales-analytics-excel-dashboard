@@ -98,5 +98,3 @@ All fields were cleaned and standardized prior to analysis.
 - Analytical Thinking  
 - KPI Structuring  
 - Business Insight Communication  
-
-## 📁 Repository Structure
